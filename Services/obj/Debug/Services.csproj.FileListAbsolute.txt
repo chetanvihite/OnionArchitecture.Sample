@@ -1,0 +1,11 @@
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\bin\Debug\Services.dll
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\bin\Debug\Services.pdb
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\bin\Debug\Domain.Entities.dll
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\bin\Debug\Domain.Interfaces.dll
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\bin\Debug\Services.Interfaces.dll
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\bin\Debug\Domain.Entities.pdb
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\bin\Debug\Domain.Interfaces.pdb
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\bin\Debug\Services.Interfaces.pdb
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\obj\Debug\Services.dll
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\obj\Debug\Services.pdb

@@ -1,0 +1,5 @@
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\bin\Debug\Domain.Entities.dll
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\bin\Debug\Domain.Entities.pdb
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.csprojResolveAssemblyReference.cache
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.dll
+C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.pdb
