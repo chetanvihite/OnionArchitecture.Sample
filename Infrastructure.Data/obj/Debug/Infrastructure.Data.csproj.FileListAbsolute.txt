@@ -7,3 +7,14 @@ C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Infrastructure.Data\bi
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\bin\Debug\Infrastructure.Data.pdb
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\bin\Debug\Domain.Entities.dll
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\bin\Debug\Domain.Interfaces.dll
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\bin\Debug\Domain.Entities.pdb
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\bin\Debug\Domain.Interfaces.pdb
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojAssemblyReference.cache
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CopyComplete
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
+D:\Projects\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb

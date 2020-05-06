@@ -5,3 +5,12 @@ C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Interfaces\bin\
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Interfaces\obj\Debug\Domain.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Interfaces\obj\Debug\Domain.Interfaces.dll
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Interfaces\obj\Debug\Domain.Interfaces.pdb
+D:\Projects\OnionArchitecture.Sample\Domain.Interfaces\bin\Debug\Domain.Interfaces.dll
+D:\Projects\OnionArchitecture.Sample\Domain.Interfaces\bin\Debug\Domain.Interfaces.pdb
+D:\Projects\OnionArchitecture.Sample\Domain.Interfaces\bin\Debug\Domain.Entities.dll
+D:\Projects\OnionArchitecture.Sample\Domain.Interfaces\bin\Debug\Domain.Entities.pdb
+D:\Projects\OnionArchitecture.Sample\Domain.Interfaces\obj\Debug\Domain.Interfaces.csprojAssemblyReference.cache
+D:\Projects\OnionArchitecture.Sample\Domain.Interfaces\obj\Debug\Domain.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\OnionArchitecture.Sample\Domain.Interfaces\obj\Debug\Domain.Interfaces.csproj.CopyComplete
+D:\Projects\OnionArchitecture.Sample\Domain.Interfaces\obj\Debug\Domain.Interfaces.dll
+D:\Projects\OnionArchitecture.Sample\Domain.Interfaces\obj\Debug\Domain.Interfaces.pdb

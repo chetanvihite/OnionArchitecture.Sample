@@ -3,3 +3,9 @@ C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\bin\De
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.csprojResolveAssemblyReference.cache
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.dll
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.pdb
+D:\Projects\OnionArchitecture.Sample\Domain.Entities\bin\Debug\Domain.Entities.dll
+D:\Projects\OnionArchitecture.Sample\Domain.Entities\bin\Debug\Domain.Entities.pdb
+D:\Projects\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.csprojAssemblyReference.cache
+D:\Projects\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.dll
+D:\Projects\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.pdb
