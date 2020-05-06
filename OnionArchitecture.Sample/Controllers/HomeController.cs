@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Linq;
 using System.Web.Mvc;
-using Domain.Entities;
+using OnionArchitecture.Sample.Models;
 using Services.Interfaces;
 
 namespace OnionArchitecture.Sample.Controllers
@@ -20,8 +17,18 @@ namespace OnionArchitecture.Sample.Controllers
         public ActionResult Index()
         {
             var users = _service.GetUsers();
-            
-            return View(users);
+
+            // TODO: This should get moved to a mapper class of some kind
+            // but this is a small example
+            var model = users.Select(x => new UserViewModel
+            {
+                DateCreated = x.DateCreated,
+                Email = x.Email,
+                FirstName = x.FirstName,
+                LastName = x.LastName
+            }).ToList();
+
+            return View(model);
         }
 
         public ActionResult About()

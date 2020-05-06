@@ -191,6 +191,7 @@
     <Compile Include="Installers\AppInstaller.cs" />
     <Compile Include="Installers\ControllerInstaller.cs" />
     <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\UserViewModel.cs" />
     <Compile Include="Plumbing\ControllerFactoryWireup.cs" />
     <Compile Include="Plumbing\IoC.cs" />
     <Compile Include="Plumbing\JsonErrorFilterAttribute.cs" />
