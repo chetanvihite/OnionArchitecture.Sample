@@ -46,7 +46,7 @@ namespace OnionArchitecture.Sample.Plumbing
 
             Container.Register(Castle.MicroKernel.Registration.Classes.FromThisAssembly()
 .BasedOn<IController>()
-.LifestylePerWebRequest()
+.LifestyleTransient()
 .Configure(x => x.Named(x.Implementation.FullName)));
 
 #pragma warning restore 618

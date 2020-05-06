@@ -99,13 +99,10 @@
     <member name="P:WebMatrix.Data.DynamicRecord.Item(System.Int32)">
       <summary>Returns the value of a column in the <see cref="T:WebMatrix.Data.DynamicRecord" /> instance using the specified index.</summary>
       <returns>The value of the specified column.</returns>
-      <param name="index">The zero-based index of the column that contains the value to return.</param>
     </member>
     <member name="P:WebMatrix.Data.DynamicRecord.Item(System.String)">
       <summary>Returns the value of a column in the <see cref="T:WebMatrix.Data.DynamicRecord" /> instance using the specified name.</summary>
       <returns>The value of the specified column.</returns>
-      <param name="name">The name of the column that contains the value to return. Name matching is case-insensitive.</param>
-      <exception cref="T:System.InvalidOperationException">The <see cref="T:WebMatrix.Data.DynamicRecord" /> instance does not contain a column whose name is a case-insensitive match with the specified name.</exception>
     </member>
     <member name="M:WebMatrix.Data.DynamicRecord.System#ComponentModel#ICustomTypeDescriptor#GetAttributes">
       <summary>Returns a list of custom attributes for this instance of a component.</summary>
